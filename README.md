@@ -26,3 +26,10 @@ pip install -r requirements.txt
 ```
 
 Add your API key to `.env`:
+```bash
+OPENAI_API_KEY=your_key_here
+```
+Run:
+```bash
+streamlit run app.py
+```
