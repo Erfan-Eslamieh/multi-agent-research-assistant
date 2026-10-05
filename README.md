@@ -103,4 +103,11 @@ Run:
 streamlit run app.py
 ```
 
+## 👨‍💻 **Author**
+
+**Erfan Eslamieh**
+
+M.Sc. in Cognitive Science – Specializing in Generative AI, Machine Learning, and Deep Learning  
+📧 [erfan.cognitive.work@gmail.com]   
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-eslamieh) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/erfaneslamieh)
 
